@@ -1,0 +1,4 @@
+echo ".txt" >> .gitignore
+echo "error/" >> .gitignore
+echo "log*/" >> .gitignore
+echo "skrypt.sh" >> .gitignore
